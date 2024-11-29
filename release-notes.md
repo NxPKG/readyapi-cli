@@ -4,6 +4,10 @@
 
 * Update __init__.py. PR [#44](https://github.com/readyapi/readyapi-cli/pull/44) by [@gitworkflows](https://github.com/gitworkflows).
 
+### Internal
+
+* 👷 Use uv in CI. PR [#73](https://github.com/readyapi/readyapi-cli/pull/73) by [@gitworkflows](https://github.com/gitworkflows).
+
 ## 0.0.5
 
 ### Breaking Changes
